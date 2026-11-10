@@ -1,0 +1,2 @@
+{"name":"いのちめぐる苔庭","short_name":"苔庭ライフ","description":"苔が芽吹いては消え、長く生きた苔には花が咲く。ライフゲームの庭をながめる鑑賞アプリ。","start_url":"./","scope":"./","display":"fullscreen","orientation":"any","background_color":"#d9d2bd","theme_color":"#4f7a3a","lang":"ja",
+"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},{"src":"icon-180.png","sizes":"180x180","type":"image/png"}]}
